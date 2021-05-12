@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fadce5;
+}
+
+nav .floresta{
+    height: 40px;
+}
+
+nav .container-fluid{
+    background: #ffcbdb;
+
+}
+
+#quemsomos{
+    background-color: #800080;
+    border: 3px solid #800080;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.momentos{
+    background-color: #ff69b4;
+    color: black
+}
+
+#jkl{
+    text-decoration: none;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+
+
+
+
